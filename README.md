@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/lucianopalhares/now-news-laravel/tree/main/public/assets/images/logo-bg.jpg" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lucianopalhares/now-news-laravel/main/public/assets/images/logo-bg.jpg" width="400"></p>
 
 <p align="center">
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
